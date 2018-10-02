@@ -26,4 +26,4 @@ Publish your mini-project and enjoy
 _______________________________________________
 This sample is published at
 
-https://garevna.github.io/js-base/
+ https://anya-di.github.io/js-base/
